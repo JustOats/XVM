@@ -1,0 +1,11 @@
+{
+  "name": "xvm",
+  "version-string": "0.1.0",
+  "description": "Anti-Tamper Software",
+  "dependencies": [
+    "libsodium",
+    "xxhash",
+    "yara",
+    "zydis"
+  ]
+}
